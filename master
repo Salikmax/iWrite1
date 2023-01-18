@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <Link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat" />
+    <style>
+        * {background-color: rgb(196, 242, 255);
+            font-size: 25px; }
+        h1 {text-align: center;
+            font-family: 'Montserrat', serif;
+            font-size: 48px;}
+        h2 {font-family: 'Montserrat', serif;
+            font-size: 24px;}
+        p {color: rgb(17, 33, 54);}
+    </style>
+</head>
+
+<body>
+    <h1>iWrite</h1>
+    <section>
+        <hr>
+        <h2>Идея</h2>
+        <p>Разработка отдельного сайта(приложения) даст возможность выкладывать свои тексты различных жанров, общаться   
+            авторами и читателями, участвовать в марафонах, способствующих улучшению писательских навыков, помочь
+            авторам в поиске своей аудитории и возможного издательства.</p>
+    </section>
+    <section>
+        <h2>Артефакты</h2>
+        <ul>
+            <li><a href="http://project6390797.tilda.ws" target="_blank">Концепция</a>
+            <li><a href="http://docs.google.com/document/d/1Fd3xXWKfXw5v57v2kimlOuST6WfsYQ_xsdFCGLGiJC8/edit" target="_blank">Команда</a>
+            <li><a href="https://vk.com/public217411687" target="_blank">Социальная сеть проекта</a>
+            <li><a href="http://t.me/+lOwQOuAzEek5OTM6" target="_blank">Чат проекта</a>
+            </ul>
+    </section>
+    
+</body>
+
+</html>
